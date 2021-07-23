@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "ClimatePrototypes",
+"productVersion": "0.1",
+"dataUrl": "ClimateGamePlayable.data.unityweb",
+"wasmCodeUrl": "ClimateGamePlayable.wasm.code.unityweb",
+"wasmFrameworkUrl": "ClimateGamePlayable.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
